@@ -1,2 +1,2 @@
-# Java-Languae
+# Java-Language
 code of java language
